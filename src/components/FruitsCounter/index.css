@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.bg{
+    background-color: #ffd569;
+    padding: 30px;
+    height: 100vh;
+}
+.card1{
+    background-color: #ffffff;
+    padding: 30px;
+}
+.h1{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Roboto;    
+}
+.img{
+    height: 150px;
+    width: 150px;
+}
+.button1{
+    background-color: #007bff;
+    height: 35px;
+    width: 110px;
+    color: white;
+    padding: 5px;
+}
